@@ -1,2 +1,7 @@
 # Another_Steganography_Tool_SteggyPie
-This is a tool i made for Least significant bit steganography in png's you can hide or retreive messages in specific color channels.
+This is a tool I made for Least Significant Bit (LSB) steganography in PNG images. You can hide or retrieve messages in specific color channels
+
+You can use the .py script or in Releases there is an exe you can run also. 
+
+pick your color channel and either encrypt or decript messaeges. 
+
